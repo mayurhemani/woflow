@@ -1,0 +1,4 @@
+Epoch: 79
+Iteration: 1000
+Mean iou: 0.5356519544589491
+Precision: 0.5758085406350901
